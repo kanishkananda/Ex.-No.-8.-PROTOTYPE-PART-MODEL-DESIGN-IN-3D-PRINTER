@@ -48,8 +48,8 @@
 ## Output:
 <img width="1885" height="835" alt="Screenshot 2026-03-26 102318" src="https://github.com/user-attachments/assets/1f47d324-7f44-44bd-96ad-ade8aedae03e" />
 
-### Name:R.Logeshwaran
-### Register Number:212225040205
+### Name:kanishka N
+### Register Number:212225230127
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
